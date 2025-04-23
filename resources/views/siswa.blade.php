@@ -1,6 +1,8 @@
 <div class="container">
     <div class="text-center">
 
+        <h1>Sekolah</h1>
+
         <table class="table-bordered">
             <thead>
                 <tr>
